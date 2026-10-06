@@ -75,15 +75,11 @@ SIGNAL COLLECTION → CONTEXT ASSEMBLY → CLAUDE SYNTHESIS → HUMAN REVIEW →
 
 ```
 ai-product-gtm-chief-of-staff/  (GitHub repo root)
-├── sales-gtm-ai-pm-workflows/  (Main folder)
+
 │   ├── README.md   (This file — portfolio overview)
 │   ├── 01-gtm-chief-of-staff-cowork-prompt.md   (Ready to paste into Cowork)
 │   ├── 02-voc-product-intelligence-cowork-prompt.md
 │   └── 03-release-readiness-copilot-cowork-prompt.md
-├── APPROVAL_WORKFLOWS.md   (Detailed approval process for each automation)
-├── LINKEDIN_POST.md   (LinkedIn post ready to publish)
-└── Video Script   (45-60 min walkthrough outline — not in repo, in LINKEDIN_POST.md)
-```
 
 ---
 
